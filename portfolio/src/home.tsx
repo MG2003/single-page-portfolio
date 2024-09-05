@@ -15,7 +15,7 @@ export default function Home() {
       <NavLink to = {"cs/" + project.link}>
      <div className = " gap-2 rounded-md bg-white hover:bg-black hover:text-white bg-opacity-50 hover:bg-opacity-90 transition-colors duration-300 w-fit flex flex-col">
      <div>
-         <img src = {project.thumb} className = "rounded-t-md h-60"/>
+         <img src = {project.thumb} className = "rounded-t-md h-60 object-contain"/>
      </div>
              <div className = " px-2 flex flex-col">
                  <div className = "font-jmono font-extrabold text-xl mb-2">{project.title}</div>
