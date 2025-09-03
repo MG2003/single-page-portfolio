@@ -29,6 +29,14 @@ export default function ArtProject(){
       
                 <div className = "font-jmono text-3xl"><span className = "font-extrabold">medium: </span>{p.medium}</div>
                 <div className = "font-inter text-lg">{p.blurb}</div>
+                            <div className = "flex flex-wrap gap-4 justify-center my-10">
+                {p.imgs.map((img) => 
+                <div className = "h-72">
+                    <img src = {img} className = "h-full object-contain"></img>
+                </div>
+                
+                )}
+            </div>
                 <button onClick={back} className = "font-jmono text-3xl w-fit">← back</button>
           
             </div>

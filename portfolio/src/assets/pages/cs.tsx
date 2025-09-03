@@ -37,6 +37,14 @@ export default function CsProject(){
                 
                 )}
             </div>
+                        <div className = "flex flex-wrap gap-4 justify-center my-10">
+                {p.videos.map((video) => 
+                <div className = "h-72">
+                    <video src = {video} className = "h-full object-contain" controls></video>
+                </div>
+                
+                )}
+            </div>
             <button onClick={back} className = "font-jmono text-3xl">← back</button>
         </div>
     )

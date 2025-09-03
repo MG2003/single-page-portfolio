@@ -7,7 +7,7 @@ export default function Home() {
   <div className = "lg:px-64 px-40 py-16 gap-4 flex-col">
     <div className  = "font-jmono font-extrabold text-8xl">Max Guo  <span className = "text-4xl">๑(◕‿◕)๑</span></div>
 
-    <div className = "mt-6 font-inter text-xl">Hey! Welcome to my little gallery :D. Have a look around!</div>
+    <div className = "mt-6 font-inter text-xl">Hey! Welcome to my little gallery :D. Click on each card for more details and a bit of commentary!</div>
     <div className  = "font-jmono font-black text-6xl mt-6">Programming Projects</div>
 
     <div className = "my-10 flex flex-wrap gap-4 mx-auto justify-center">

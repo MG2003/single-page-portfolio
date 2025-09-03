@@ -7,7 +7,8 @@ export default {
       fontFamily: {
         inter: 'Inter, sans serif',
         space_mono: "Space mono, monospace",
-        jmono: "Jetbrains mono, monospace"
+        jmono: "Jetbrains mono, monospace",
+        instrument: "Instrument sans, sans serif"
       },
       colors: {
         primary: '#fce0de',  
