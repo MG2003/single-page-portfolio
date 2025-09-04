@@ -103,11 +103,11 @@ interface artwork{
 
 const ART: artwork[] = [
    {id:0, path: "1.jpg", link: "circuit", title: "Circuitboard Still Life", medium: "oil on canvas with sawed off circuits"
-    ,blurb: "Another exploration into weird, complex machinery! This still life is a composition of a giant CRT TV I got from a family friend. In contrast to the engine, the colors and elements of the circuit feel so much more haphazard, but I think I did a good job in my composition, which I spent hours positioning on my living room to find the perfect placement of circuitboards. The wires really help lead my eyes through the piece. In the middle I also added a circuitboard I sawed out of the actual TV, for some extra pop."
+    ,blurb: "A study of some really weird and complicated machinery, something rooted in my obsession of 90s anime. This still life is a composition of a giant CRT TV I got from a family friend. The colors and elements of the circuit feel so haphazard, but I think I did a good job in my composition, which I spent hours positioning on my living room to find the perfect placement of circuitboards. The wires really help lead my eyes through the piece. In the middle I also added a circuitboard I sawed out of the actual TV, for some extra pop."
    , imgs: []
 },
     {id:1, path:"4.jpg", link: "drowning", title: "Drowning", medium: "charcoal on paper with watercolor on tissue paper"
-        ,blurb: "The next stop in my portfolio is a series of massive paintings of my face!! This piece comes from a time when everything felt like just a bit too much. To this day I'm still so proud of this piece, from the complex water details to my weird but nuanced expression. The tissue paper came as a recommendation from my art teacher at the time, who thought the piece could use a bit more than just a sketch on a sheet of paper. I will forever thank her because I think wandering New York looking for tissue paper, and subsequently finishing the piece gave me so much insight on my own artistic process."
+        ,blurb: "This piece comes from a time when everything felt like just a bit too much. To this day I'm still so proud of this piece, from the complex water details to my weird but nuanced expression. The tissue paper came as a recommendation from my art teacher at the time, who thought the piece could use a bit more than just a sketch on a sheet of paper. I will forever thank her because I think wandering New York looking for tissue paper, and subsequently finishing the piece gave me so much insight on my own artistic process."
     , imgs: []
     },
     {id:3, path:"5.jpeg", link: "pixels", title: "Organic Pixels", medium: "oil on canvas on styrofoam boxes"
