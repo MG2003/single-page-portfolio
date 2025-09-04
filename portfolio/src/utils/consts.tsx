@@ -47,7 +47,7 @@ const PROJECTS: projectInfo[] = [
         imgs: [],
         videos: ["/assets/demo_reels/usfps_demo.mp4"],
         tags: ["game dev, unreal, 3D"],
-        txt: "This was the second game I worked on with BRGD, as well as one where I took a larger responsibility from than my previous game. We wanted to make a cute infinite runner similar to Subway Surfers here, except you're a mailman shooting packages at houses. We were pretty low on artists this year so I helped work on numerous shaders to create a morer polished experience for the game. Primarily, I worked on shaders to make the world look spherical to enhance the \"endless\" feel of the game as well as a pixel filter. I also implemented the main firing/scoring mechanic of the game as well as target generation."
+        txt: "This was the second game I worked on with BRGD, as well as one where I took a larger responsibility from than my previous game. We wanted to make a cute infinite runner similar to Subway Surfers here, except you're a mailman shooting packages at houses. We were pretty low on artists this year so I helped work on numerous shaders to create a more polished experience for the game. Primarily, I worked on shaders to make the world look spherical to enhance the \"endless\" feel of the game as well as a pixel filter. I also implemented the main firing/scoring mechanic of the game as well as target generation."
     },
     {
         id: 3,
